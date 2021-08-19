@@ -1,8 +1,4 @@
-# Read 01: Introductory HTML and Javascript
-
-For your assignment, go through these resources, and create a markdown file titled class-01.md in your reading notes repo that summarizes the topics. Then ACP your main branch to create a rendered web page on github pages
-
-## From HTML Book 
+# Class-02
 
 ### Introduction
 A helpful breakdown of the each step in the process that's required to use the internet and visit websites.
@@ -19,8 +15,6 @@ HTML5 added a new set of elements to use to help more clearly define all the par
 
 ### Chapter 18: Process & Design
 When designing a website, you need to know why people are coming to your site and have an understanding of what they're looking for (to purchase an item, read articles, play a game, etc.). You can use wireframes, and site maps to get a visual representation of what information needs to be in different locations on the site.
-
-## From JS Book
 
 ### Chapter : Introduction
 Javascript allows us to access, change, or react to events on elements of an HTML page by using selectors tied to class/id attributes.
