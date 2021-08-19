@@ -5,20 +5,20 @@ For your assignment, go through these resources, and create a markdown file titl
 ## From HTML Book 
 
 ### Introduction
-A helpful breakdown of the each step in the proces that's required to use the internet and visit websites.
+A helpful breakdown of the each step in the process that's required to use the internet and visit websites.
 
 ### Chapter 1: Structure
 Because HTML pages are just text documents, structuring them well and clearly is important. Which is why we use different tags, and attributes to be clear about what each elements purpose/function is.
 Attributes give more specific information about the content of the element, and require both a name and a value.
 
 ### Chapter 8: Extra Markup
-The information at the top of an HTML document, like DOCTYPE, tells the browser important information about your code, and how you want the document to be read and treated. DOCTYPE specifies which verstion you're using, you can set expiry dates for the page so that it can't be cached after a point, and you can prevent the browser from caching it all together.
+The information at the top of an HTML document, like DOCTYPE, tells the browser important information about your code, and how you want the document to be read and treated. DOCTYPE specifies which version you're using, you can set expiry dates for the page so that it can't be cached after a point, and you can prevent the browser from caching it all together.
 
 ### Chapter 17: HTML5 Layout
 HTML5 added a new set of elements to use to help more clearly define all the parts of a page. So instead of divs with classes to ID their function, the tag name labels the element inherently.
 
 ### Chapter 18: Process & Design
-When designing a website, you need to know why people are coming to your site and have an understanding of what they're looking for (to purchase an item, read articles, play a game, etc.). You can use wireframs, and site maps to get a visual representation of what information needs to be in different locations on the site.
+When designing a website, you need to know why people are coming to your site and have an understanding of what they're looking for (to purchase an item, read articles, play a game, etc.). You can use wireframes, and site maps to get a visual representation of what information needs to be in different locations on the site.
 
 ## From JS Book
 
