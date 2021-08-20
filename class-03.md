@@ -1,5 +1,5 @@
 ### Ch 3 Lists
-There are three types of lists in HTML (ordered, unordered, and definition), and you can nest lists within <li> elements.
+There are three types of lists in HTML (ordered, unordered, and definition), and you can nest lists within "<li>" elements.
 ### Ch 13 Boxes
 The visual box model is really helpful in remembering the difference between padding, border and margin. The chapter covered the different ways you can use CSS to display boxes on a page.
 
