@@ -1,11 +1,14 @@
 ### Ch 3 Lists
-There are three types of lists in HTML (ordered, unordered, and definition), and you can nest lists within "<li>" elements.
+There are three types of lists in HTML (ordered, unordered, and definition), and you can nest lists within `<li>` elements.
 ### Ch 13 Boxes
 The visual box model is really helpful in remembering the difference between padding, border and margin. The chapter covered the different ways you can use CSS to display boxes on a page.
 
 ### Ch 2 Basic JavaScript Instructions (pp.70-73)
-Arrays are a type of variable, which store lists of values. While it's common to store values of the same data type, the values in an array can be different types from each other. Items within an array are accessed like a numbered list, where the first item is stored at 0. You can use the indexes within an array to access specific items, like:
- array[1] = 'updated item'
+- arrays are a type of variable, which store lists of values
+- while it's common to store values of the same data type, the values in an array can be different types from each other
+- items within an array are accessed like a numbered list, where the first item is stored at 0
+- you can use the indexes within an array to access specific items, like:
+`array[1] = 'updated item'` <br>
  This would replace the second item in the given array to the string 'updated item'.
 
 ### Ch 4 Decisions and Loops from switch statements (pp.162-182)
